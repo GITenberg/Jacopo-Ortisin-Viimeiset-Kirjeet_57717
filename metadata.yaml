@@ -1,0 +1,31 @@
+_repo: Jacopo-Ortisin-Viimeiset-Kirjeet_57717
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Erich, Mikko V.
+    gutenberg_agent_id: '49561'
+    url: http://www.gutenberg.org/2009/agents/49561
+creator:
+  author:
+    agent_name: Foscolo, Ugo
+    aliases:
+    - Didimo, Chierico
+    - Foscolo, Niccolò
+    - Foscolo, Niccolo
+    birthdate: 1778
+    deathdate: 1827
+    gutenberg_agent_id: '44491'
+    url: http://www.gutenberg.org/2009/agents/44491
+description: ''
+gutenberg_issued: '2018-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57717'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jacopo Ortisin Viimeiset Kirjeet
+url: http://www.gutenberg.org/ebooks/57717
