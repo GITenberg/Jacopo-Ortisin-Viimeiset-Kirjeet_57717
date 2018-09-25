@@ -1,10 +1,13 @@
 _repo: Jacopo-Ortisin-Viimeiset-Kirjeet_57717
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Erich, Mikko V.
     gutenberg_agent_id: '49561'
     url: http://www.gutenberg.org/2009/agents/49561
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Foscolo, Ugo
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '44491'
     url: http://www.gutenberg.org/2009/agents/44491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57717#Jacopo-Ortisin-Viimeiset-Kirjeet
 gutenberg_issued: '2018-08-18'
 gutenberg_type: Text
 identifiers:
